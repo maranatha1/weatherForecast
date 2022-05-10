@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POE-AdvancedWeatherForecastingSystem", "POE-AdvancedWeatherForecastingSystem\POE-AdvancedWeatherForecastingSystem.csproj", "{64838FAC-5A09-41D2-B831-4246C3A53BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{00B46720-F195-4F6E-AD6E-5B8AA59CED41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{4E795E64-D399-441A-B984-1EEA1927F615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64838FAC-5A09-41D2-B831-4246C3A53BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64838FAC-5A09-41D2-B831-4246C3A53BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64838FAC-5A09-41D2-B831-4246C3A53BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64838FAC-5A09-41D2-B831-4246C3A53BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B46720-F195-4F6E-AD6E-5B8AA59CED41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B46720-F195-4F6E-AD6E-5B8AA59CED41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B46720-F195-4F6E-AD6E-5B8AA59CED41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B46720-F195-4F6E-AD6E-5B8AA59CED41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E795E64-D399-441A-B984-1EEA1927F615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E795E64-D399-441A-B984-1EEA1927F615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E795E64-D399-441A-B984-1EEA1927F615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E795E64-D399-441A-B984-1EEA1927F615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {283D6148-8C0A-4F4F-83B8-9E389F766E91}
+	EndGlobalSection
+EndGlobal

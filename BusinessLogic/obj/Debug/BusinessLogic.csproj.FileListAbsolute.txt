@@ -1,0 +1,27 @@
+C:\Users\Mawethw'Abongile\source\repos\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Mawethw'Abongile\source\repos\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Mawethw'Abongile\source\repos\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Mawethw'Abongile\source\repos\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Mawethw'Abongile\source\repos\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Mawethw'Abongile\source\repos\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Mawethw'Abongile\source\repos\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Mawethw'Abongile\source\repos\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Mawethw'Abongile\source\repos\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Maranatha Mantla\OneDrive\Desktop\Safety Net\PROG6211\POE\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Maranatha Mantla\OneDrive\Desktop\Safety Net\PROG6211\POE\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Maranatha Mantla\OneDrive\Desktop\Safety Net\PROG6211\POE\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Maranatha Mantla\OneDrive\Desktop\Safety Net\PROG6211\POE\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Maranatha Mantla\OneDrive\Desktop\Safety Net\PROG6211\POE\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Maranatha Mantla\OneDrive\Desktop\Safety Net\PROG6211\POE\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Maranatha Mantla\OneDrive\Desktop\Safety Net\PROG6211\POE\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Maranatha Mantla\OneDrive\Desktop\Safety Net\PROG6211\POE\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Maranatha Mantla\OneDrive\Desktop\Safety Net\PROG6211\POE\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\MaranathaMantla\Desktop\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\MaranathaMantla\Desktop\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\MaranathaMantla\Desktop\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\MaranathaMantla\Desktop\POE-AdvancedWeatherForecastingSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\MaranathaMantla\Desktop\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\MaranathaMantla\Desktop\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\MaranathaMantla\Desktop\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\MaranathaMantla\Desktop\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\MaranathaMantla\Desktop\POE-AdvancedWeatherForecastingSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
